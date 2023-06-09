@@ -1,2 +1,2 @@
-# git-hub-tutorial
-A simple demo repository to show the basic Git workflow
+# Example Repository
+This is a sample repo, Hello World!
